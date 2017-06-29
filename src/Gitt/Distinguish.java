@@ -1,6 +1,6 @@
 package Gitt;
 
 public class Distinguish {
-  new
+  new project;
 
 }
